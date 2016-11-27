@@ -3,10 +3,10 @@ layout: page
 title: About
 ---
 
-Hola.
+Hi.
 
-Soy Jesus, el típico programador que se emociona leyendo y escribiendo código. Me gustan los retos y aprender cosas nuevas, aficionado a los cómics, juegos de video y el cine. Tengo un alter-ego pseudo artista al que le gusta crear libretas, dibujar y hacer música.
+I'm Jesus, a software developer. I love challenges, coding, comics and movies. I have an artist alter-ego who likes drawing, create music and make notebooks.
 
-**A donde vamos, no necesitamos caminos...**
+**I am the designer of my own catastrophy**
 
-Disfruten la función!
+Enjoy the show!
