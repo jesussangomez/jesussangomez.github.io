@@ -3,10 +3,10 @@ layout: page
 title: About
 ---
 
-Hello.
+Hola.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+Soy Jesus, el típico programador que se emociona leyendo y escribiendo código. Me gustan los retos y aprender cosas nuevas, aficionado a los cómics, juegos de video y el cine. Tengo un alter-ego pseudo artista al que le gusta crear libretas, dibujar y hacer música.
 
-**Just write thing that matters..**
+**A donde vamos, no necesitamos caminos...**
 
-Enjoy!
+Disfruten la función!
