@@ -1,5 +1,5 @@
 ---
-title: Everything changed
+title: Everything changed.
 updated: 2016-12-01 15:00
 ---
 
